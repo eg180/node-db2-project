@@ -10,5 +10,9 @@
     "devDependencies": {
         "eslint": "^7.15.0",
         "nodemon": "^2.0.2"
+    },
+    "dependencies": {
+        "knex": "^0.21.12",
+        "sqlite3": "^5.0.0"
     }
 }
